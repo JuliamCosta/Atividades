@@ -10,5 +10,6 @@
         <div>
             <h1>Links das Minhas Atividades</h1>
         </div>
+		 <a href="20200811/">Editor de Texto</a>
     </body>
 </html>
