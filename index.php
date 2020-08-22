@@ -11,5 +11,6 @@
             <h1>Links das Minhas Atividades</h1>
         </div>
 		 <a href="20200811/atividade1.php">Editor de Texto</a>
+         <a href="20200819/atividade.php">Editor de Texto</a>
     </body>
 </html>
