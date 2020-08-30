@@ -11,6 +11,7 @@
             <h1>Links das Minhas Atividades</h1>
         </div>
 		 <a href="20200811/atividade1.php">Editor de Texto</a><br>
-         <a href="20200819/atividade.php">Engenharia Reversa</a>
+         <a href="20200819/atividade.php">Engenharia Reversa</a><br>
+         <a href="20200825/atividade.php">Engenharia Reversa - Jquery e Ajax</a>
     </body>
 </html>
