@@ -13,10 +13,8 @@
                 $.get("lista.php",{"nome":nome},function(msg){
                     $("#msg").html(msg);
                     $("#fruta").val("");
-                })
-            })
-            
-                
+                });
+            });    
         });
     </script>
 </head>
