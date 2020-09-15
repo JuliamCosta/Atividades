@@ -4,7 +4,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Engenharia reversa - jquery e ajax</title>
+    <title>Engenharia reversa - Lista Frutas</title>
     <script src="jquery-3.5.1.min.js"></script>
     <script>
         $(document).ready(function(){
