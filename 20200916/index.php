@@ -8,7 +8,7 @@
         $(document).ready(function(){
             $("#ano").change(function(){
                 procuraNomes();
-            });
+            }); 
             $("#nome").blur(function(){
                 procuraNomes()
             });
@@ -19,7 +19,7 @@
             function procuraNomes(){
                 var nome = $("#nome").val();
                 var ano = $("#ano").val();
-                $.getJSON("https://servicodados.ibge.gov.br/api/v2/censos/nomes/ranking/?decada="+ano, function(lista){
+                $.get("https://servicodados.ibge.gov.br/api/v2/censos/nomes/ranking/?decada="+ano, function(lista){
                     var conteudo = "";
                     var achou ="";
                     $.each(lista[0].res, function(indice,valor){
