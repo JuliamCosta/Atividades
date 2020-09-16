@@ -27,7 +27,7 @@
                 }else{
                     alert("O CEP está em um formato inválido. Digite novamente");
                 }
-            });s
+            });
         });
     </script>
 </head>
