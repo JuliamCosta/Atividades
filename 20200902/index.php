@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Json API- CEP</title>
+    <title>Json API- ViaCEP</title>
     <script src="jquery-3.5.1.min.js"></script>
     <script>
         $(document).ready(function(){
