@@ -1,0 +1,24 @@
+Convidado: (sem permissao - sem variavel de sessao)
+    - se cadastrar (como autor ou leitor)
+    - logar.
+
+Admin:(com permissao 1)
+    admin@admin.com
+    12345
+    
+    - Cadastrar livro, autor, movimento literário, gênero literário e leitor;
+    - Listar, alterar e remover livro, autor, movimento literário, gênero literário e leitor;
+
+Autor:(com permissao 2)
+    
+    - Visualizar o próprio cadastro e editar.
+    - Listar, alterar e remover seus livros. 
+    - Cadastrar novos livros. 
+
+Leitor: (permissao 3)
+
+-Listar todos os livros
+-Visualizar seus dados e editar
+
+  
+
